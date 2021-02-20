@@ -1,0 +1,44 @@
+.contenair{
+    width: 80%;
+    height: 3.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: .2rem 0 0 0;
+    background-color: rgba(233, 242, 248, 0.589);
+    border-radius: 1rem;
+    padding-right: 1rem;
+}
+.contenairLeft{
+    width: 50%;
+    height: inherit;
+}
+.contenairRight{
+    width: 40%;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.homeStyle{
+    width: 9rem;
+    height: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.serviceStyle{
+    width: 9rem;
+    height: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contactStyle{
+    width: 9rem;
+    height: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
